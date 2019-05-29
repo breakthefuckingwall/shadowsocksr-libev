@@ -28,9 +28,12 @@ shadowsocks-libev.pc
 debian/libshadowsocks-libev*.symbols
 libsodium/src/libsodium/include/sodium/version.h
 rpm/SPECS/shadowsocks-libev.spec
-.vscode
 
+// ----------------
+// Jason use
+.vscode
 **/cmake
+// ----------------
 
 # Ignore per-project vim config
 .vimrc
